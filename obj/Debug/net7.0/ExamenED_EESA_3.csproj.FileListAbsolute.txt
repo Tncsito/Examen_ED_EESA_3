@@ -1,0 +1,15 @@
+C:\Users\UTS-CDS\Desktop\ExamenED_EESA_3\bin\Debug\net7.0\ExamenED_EESA_3.exe
+C:\Users\UTS-CDS\Desktop\ExamenED_EESA_3\bin\Debug\net7.0\ExamenED_EESA_3.deps.json
+C:\Users\UTS-CDS\Desktop\ExamenED_EESA_3\bin\Debug\net7.0\ExamenED_EESA_3.runtimeconfig.json
+C:\Users\UTS-CDS\Desktop\ExamenED_EESA_3\bin\Debug\net7.0\ExamenED_EESA_3.dll
+C:\Users\UTS-CDS\Desktop\ExamenED_EESA_3\bin\Debug\net7.0\ExamenED_EESA_3.pdb
+C:\Users\UTS-CDS\Desktop\ExamenED_EESA_3\obj\Debug\net7.0\ExamenED_EESA_3.csproj.AssemblyReference.cache
+C:\Users\UTS-CDS\Desktop\ExamenED_EESA_3\obj\Debug\net7.0\ExamenED_EESA_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UTS-CDS\Desktop\ExamenED_EESA_3\obj\Debug\net7.0\ExamenED_EESA_3.AssemblyInfoInputs.cache
+C:\Users\UTS-CDS\Desktop\ExamenED_EESA_3\obj\Debug\net7.0\ExamenED_EESA_3.AssemblyInfo.cs
+C:\Users\UTS-CDS\Desktop\ExamenED_EESA_3\obj\Debug\net7.0\ExamenED_EESA_3.csproj.CoreCompileInputs.cache
+C:\Users\UTS-CDS\Desktop\ExamenED_EESA_3\obj\Debug\net7.0\ExamenED_EESA_3.dll
+C:\Users\UTS-CDS\Desktop\ExamenED_EESA_3\obj\Debug\net7.0\refint\ExamenED_EESA_3.dll
+C:\Users\UTS-CDS\Desktop\ExamenED_EESA_3\obj\Debug\net7.0\ExamenED_EESA_3.pdb
+C:\Users\UTS-CDS\Desktop\ExamenED_EESA_3\obj\Debug\net7.0\ExamenED_EESA_3.genruntimeconfig.cache
+C:\Users\UTS-CDS\Desktop\ExamenED_EESA_3\obj\Debug\net7.0\ref\ExamenED_EESA_3.dll
